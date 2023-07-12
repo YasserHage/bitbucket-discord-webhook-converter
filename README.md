@@ -1,4 +1,4 @@
-# discord-hooks
+# discord-hooks (Node version)
 
 #### PT:
 Esse projeto é usado para converter alguma entrada em um webhook formatado para o discord. Atualmente só é suportado como entrada um webhook de criação de pullrequest do bitbucket, mas pode ser aprimorado conforme nessessário. 
